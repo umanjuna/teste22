@@ -12,3 +12,5 @@ Scenario: User in China territory sees appropriate login providers
 		And V changed it on locals
 		
 		new change made to checkin to source tree -LOCAL
+
+		Change made in VBranch
