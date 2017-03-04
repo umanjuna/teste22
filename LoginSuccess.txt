@@ -10,3 +10,5 @@ Scenario: User in China territory sees appropriate login providers
 		And I have checkedin from machine2
 		And I have changed it on remote	
 		And V changed it on locals
+		
+		new change made to checkin to source tree -LOCAL
