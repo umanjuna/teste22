@@ -18,5 +18,6 @@ Scenario: User in China territory sees appropriate login providers
 		changed on remote
 
 		changed for stash
-		resolved merge conflict remote1
+		resolved merge conflict remote
+		change on local
 
