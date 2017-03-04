@@ -14,4 +14,8 @@ Scenario: User in China territory sees appropriate login providers
 		new change made to checkin to source tree -LOCAL
 
 		Change made in VBranch
+
 		changed on remote
+
+		changed for stash
+
