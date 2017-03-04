@@ -8,4 +8,5 @@ Scenario: User in China territory sees appropriate login providers
 		Then a page loads allowing me to choose an account to connect with
 		And the Facebook option is not present
 		And I have checkedin from machine2
+		And I have changed it on remote
 
