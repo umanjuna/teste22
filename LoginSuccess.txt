@@ -1,12 +1,11 @@
 @AZ41
 Feature:  Login success
-A customer can login using NOA account
 
-@droid @ios @p2 @manualwp
 Scenario: User in China territory sees appropriate login providers
     Given I have started the app in China territory
 		When I visit the settings page
 		And I tap 'log in'
 		Then a page loads allowing me to choose an account to connect with
 		And the Facebook option is not present
+		
 
